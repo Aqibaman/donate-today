@@ -1,0 +1,328 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    height: 100%;
+}
+.first-header{
+    font-size: 80px;
+    margin:0px;
+    padding-top: 200px;
+    color: white;
+    text-align: center;
+
+}
+.second-header{
+    font-size: 80px;
+    margin:0px;
+    color: white;
+    text-align: center;
+
+}
+.whitening-header{
+    color: white;
+    text-align: center;
+    margin: 0;
+    border:0;
+    padding:0;
+}
+#third-header{
+    margin-bottom: 70px;
+}
+.top-banner{
+    background-image: url(./images/donation13.jpg);
+    height: 720px;
+    width:1535px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.link-button{
+    font-size: 30px;
+    text-decoration: none;
+    background-image: linear-gradient(#7CFC00, #50C878);
+    padding: 8px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 40%;
+    margin-left: 41%;
+}
+#fourth-header{
+    text-align: center;
+    font-size: 80px;
+    color: #14C38E;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+.fifth-header{
+    font-size: 25px;
+    margin: 10px;
+    margin-bottom: 0;
+    border: 0;
+    padding: 0;
+    text-align: center;
+}
+.second-banner{
+    background-image: white;
+    height: 720px;
+    width:1535px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.fifth-width{
+    width: 15%;
+    text-align: center;
+}
+.money-select{
+    width: 90%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 5%;
+    margin-right:5%;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #7CFC00;
+    border-left: 7px solid #50C878;
+    border-top: 2px solid #50C878;
+    border-bottom: 2px solid #50C878;
+}
+.money-select:hover {
+    background-color: #50C878;
+    color: white;
+}
+.money-select:active {
+    background-color: #50C878;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#moneypadding1{
+    margin-left: 200px;
+}
+#moneypadding2{
+    margin-right: 200px;
+}
+.input{
+    width: 1200px;
+    height: 80px;
+    padding: 20px 20px 20px 20px;
+    margin: 8px 200px 30px 170px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 10px solid #50C878;
+    border-bottom-width: 3px;
+    text-align: center;
+}
+
+.donation-header-one{
+    text-align: center;
+    font-size: 80px;
+    color: #14C38E;
+}
+.donation-header-three{
+    margin:0%;
+    text-align: center;
+
+}
+.tri-width{
+    width: 30%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+}
+#donation-card1{
+    background-image: linear-gradient(#E3FCBF,#B8F1B0);
+    border-radius: 20px;
+    margin-top:70px;
+    margin-left:200px;
+    padding: 10px;
+}
+#donation-card1 img{
+    padding-top: 30px;
+}
+#donation-card2{
+    background-image: linear-gradient(#B8F1B0,#14C38E);
+    border-radius: 20px;
+    margin-top:70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+}
+#donation-card2 img{
+    padding-top: 30px;
+}
+#donation-card3{
+    background-image: linear-gradient(#14C38E,#00FFAB);
+    border-radius: 20px;
+    margin-top:70px;
+    margin-right:200px;
+    padding: 10px;
+}
+#donation-card3 img{
+    padding-top: 30px;
+}
+#third-banner{
+    background-image: url(./images/Capture.PNG);
+    height: 720px;
+    width:1535px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.mango{
+    color:#14C38E;
+}
+.donation-steps{
+    width: 40%;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    margin-left: 3%;
+    margin-right:3%;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #7CFC00;
+    border-left: 7px solid #50C878;
+    border-top: 2px solid #50C878;
+    border-bottom: 2px solid #50C878;
+    text-align: center;
+}
+.donation-steps:hover {
+    background-color: #50C878;
+    color: white;
+}
+#link-button2{
+    font-size: 30px;
+    text-decoration: none;
+    padding-top: 0px;
+    padding-left: 0px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#fourth-banner{
+    background-image: url(./images/Picture1.png);
+    height: 720px;
+    width:1535px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 90%;
+    height:90%;
+    
+}
+#image-position{
+    margin-left: 40px;
+
+}
+.padding2{
+    padding: 0px 250px 0px 50px;
+    margin-top: 50px;
+    justify-content: center;
+}
+#link-button3{
+    font-size: 30px;
+    text-decoration: none;
+    background-image: linear-gradient(#7CFC00, #50C878);
+    padding: 8px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 100%;
+    margin-left: 20%;
+}
+#contact{
+    font-size: 50px;
+}
+#us{
+    font-size: 25px;
+}
+#margin-bottom{
+    margin-bottom: 20px;
+    text-align: justify;
+}
+#fifth-banner{
+    background-image: url(./images/donation9.jpg);
+    height: 720px;
+    width:1535px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#black-header{
+    color: black;
+    text-align: center;
+    margin: 0;
+    border:0;
+    padding:0;
+    font-size: 45px;
+}
+.email-image{
+    height:50px;
+    width:55px;
+    background-color:#14C38E;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+.email-box{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.tbox,.btn{
+    border: none;
+    outline: none;
+}
+.tbox{
+    width:0px;
+    transition: 0.6s;
+}
+.email-box:hover > .tbox, .tbox:focus{
+    width:260px;
+    padding: 0 10px;
+}
+.btn{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 0 10 px;
+    text-transform: uppercase;
+    cursor: pointer;
+    background-color:#14C38E;
+    font-size: 20px;
+}
+footer{
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+    background-color: black;
+    text-align: center;
+}
+.weight{
+    font-size: 30px;
+    margin: 0%;
+}
+h4{
+    color: white;
+    margin: 0%;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+.last-header{
+    text-align: center;
+    font-size: 40px;
+    color: #14C38E;
+    margin: 0%;
+}
