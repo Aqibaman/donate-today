@@ -29,7 +29,8 @@ body{
     margin-bottom: 70px;
 }
 .top-banner{
-    background-image: url(./images/donation13.jpg);
+    
+    background:linear-gradient(180DEG, RGB(255, 255, 255, .01),  RGB(0, 0, 0, 5)), url(./images/donation13.jpg);
     height: 720px;
     width:1535px;
     background-repeat: no-repeat;
@@ -109,6 +110,7 @@ body{
 }
 .input{
     width: 1200px;
+    font-size: 25px;
     height: 80px;
     padding: 20px 20px 20px 20px;
     margin: 8px 200px 30px 170px;
@@ -253,7 +255,7 @@ body{
     text-align: justify;
 }
 #fifth-banner{
-    background-image: url(./images/donation9.jpg);
+    background:linear-gradient(180DEG, RGB(255, 255, 255, .01),  RGB(0, 0, 0, 5)), url(./images/donation9.jpg);
     height: 720px;
     width:1535px;
     margin: 0;
@@ -262,7 +264,7 @@ body{
     background-size: cover;
 }
 #black-header{
-    color: black;
+    color: #14C38E;
     text-align: center;
     margin: 0;
     border:0;
